@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientCertificate", "ClientCertificate\ClientCertificate.csproj", "{960FA4DE-9242-4E25-8922-AD09B610D123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{DA1C0579-1404-4067-AEA1-A67FD71D25BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{960FA4DE-9242-4E25-8922-AD09B610D123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960FA4DE-9242-4E25-8922-AD09B610D123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960FA4DE-9242-4E25-8922-AD09B610D123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960FA4DE-9242-4E25-8922-AD09B610D123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1C0579-1404-4067-AEA1-A67FD71D25BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1C0579-1404-4067-AEA1-A67FD71D25BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1C0579-1404-4067-AEA1-A67FD71D25BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1C0579-1404-4067-AEA1-A67FD71D25BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
