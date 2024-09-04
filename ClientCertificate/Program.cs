@@ -5,7 +5,6 @@ var certificate = new X509Certificate2("./client.pfx", "coen");
 var handler = new HttpClientHandler();
 handler.ClientCertificates.Add(certificate);
 
-
 var cert = handler.ClientCertificates[0];
 Console.WriteLine($"Certificate Subject: {cert.Subject}");
 Console.WriteLine($"Certificate Issuer: {cert.Issuer}");
