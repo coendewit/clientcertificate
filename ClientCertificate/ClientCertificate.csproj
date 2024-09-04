@@ -16,6 +16,7 @@
       <Content Include="client.pfx">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </Content>
+      <None Remove="beheer-databalk.pfx" />
     </ItemGroup>
 
 </Project>
